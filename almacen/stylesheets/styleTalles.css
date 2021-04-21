@@ -1,0 +1,77 @@
+.caja-talles{
+    display:flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:40px;
+}
+.caja-talle{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    height: 100px;
+    background-size: cover;
+    
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.caja-talle a{
+    font-size: 14px;
+}
+.icono-carpeta{
+    font-size: 120px;
+    position:relative;
+}
+.texto-talle{
+    font-size: 13px !important;
+    position: absolute;
+    color: antiquewhite;
+    top: 45px;
+    LEFT: 17px;
+}
+.limpieza{
+    left: 30px;
+}
+.refrigerados{
+    left: 11px;
+}
+.cigarrillos{
+    left: 14px;
+}
+.bazar{
+    left: 35px;
+}
+.varios{
+    left: 34px;
+}
+.almacen{
+    left: 29px;
+}
+.galletitas{
+    left:22px;
+}
+.golosinas{
+    left:20px;
+}
+.bebidas{
+    left:32px;
+}
+.bebidas-alcohol{
+    left:1px;
+}
+.boton-agregar{
+    font-size: 18px;
+    margin: 0;
+    width: 120px;
+    height: 30px;
+    background-color: rgb(22, 22, 22);
+    text-decoration: none;
+    color:aliceblue;
+    text-align: center;
+    margin: 0px auto;
+    border:none;
+    border-radius: 7px;
+}
+
